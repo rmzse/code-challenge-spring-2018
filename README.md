@@ -1,12 +1,10 @@
-# Coding Challenge 2018 for Technigo Boot camp
+# Coding Challenge 2018 for Technigo Boot Camp
 
-We're happy that you're thinking about applying for our boot camp! This is the first step, and the most fun, in the application – the coding challenge. 
-
-Don't be afraid. We don't expect you to know these things in advance, we just want to check that you can search for information and put it into practice. We also want you to have tried a little of programming before so that you know that you enjoy it. 
+We're happy that you're thinking about applying for our boot camp! This is the first step, and the most fun, in the application – The Coding Challenge. 
 
 ## The brief
 
-This is your chance to make your personal mark on one of the most used web services out there today: Facebook. We want you to make a re-make of the classic login page, meaning how it looks NOT any functionality. You can style it however you like, go bold or be more minimalistic. Go wild and make it yours! 
+This is your chance to make your personal mark on one of the most used web services out there today: Facebook. We want you to make a re-make of the classic **login page**, meaning how it looks NOT any functionality. You can style it however you like, go bold or be more minimalistic. Go wild and make it yours! 
 
 The most important thing is that you have fun doing it – and hopefully learn something new in the process. 
 
@@ -17,11 +15,16 @@ You solution must contain:
 * Two input fields (Username and password)
 * A button
 
-We expect you to spend around 4 hours on this assignment – that's also what you will be judged on. If you haven't coded before we think you might have to add an hour or two to read into some of the suggested reading material. 
+We expect you to spend around 4 hours on this assignment – that's also what you will be judged on. If you haven't coded before we think you might have to add an hour or two to read into some of the suggested reading material. Why a 
+
+### Why a coding challenge? 
+We know that all of you are beginners at programming - we will not judge your solution based on the quality of your code or amount of work. We do however want to see that you’ve touched on a bit of programming before and know what you’re getting yourself into.
+
+Make sure to have fun during the process! Do something that you find interesting and motivating.
 
 ## How to complete this assignment
 
-1. Start by sketching with pen and paper how you want your version of Google to look like.
+1. Start by sketching with pen and paper how you want your version of Facebook's login page to look like.
 1. Structure your work. Break down your solution in smaller blocks. Estimate how long each block will take to build. Does it sound reasonable to finish? If yes, move on to the next step. If not, go back to step 1 and revise your scope.
 1. Download or clone this repository with templates and start coding.
 
@@ -48,13 +51,19 @@ The coding asisgnment will be judged by a jury from the industry. All solutions 
 
 ### :books: Readings
 
-If you haven't coded before we suggest these resources to get you started. 
+If you haven't coded before we suggest these resources to get you started: 
+
+* [What is HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+* [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
 
 
 ### :sos: How to get help
-Learning how to think as a web developer is learning how to be an expert in problem solving. So whenever you get stuck start with step 1 and continue until problem solved. Google will very much be you friend in this! 
+Learning how to think as a web developer is learning how to be an expert in problem solving. Google will very much be you friend in this! 
 
-We also have a community on Slack in which we will post useful links and answer questions. [Join here.](https://join.slack.com/t/technigo/shared_invite/enQtMjg1MzI1NDkzNTM2LWM0YmJmZDdkNTNjNzUwOGIxYTVjODY0YTYyMDVmOGY5NWQwODYzMTk0NTRlMzI0M2E4MDQ4ZTIyOWZhMDM2ZjE) We have a range of channels setup – they're a great place to go to look for both help and inspiration, also feel free to contribute. They're completely optional to join, but we recommend it. There's several Slack channels in the group, here's a few we think might be of use to you:
+We also have a community on Slack in which we will post useful links and answer questions. [Join here.](https://join.slack.com/t/technigo/shared_invite/enQtMjg1MzI1NDkzNTM2LWM0YmJmZDdkNTNjNzUwOGIxYTVjODY0YTYyMDVmOGY5NWQwODYzMTk0NTRlMzI0M2E4MDQ4ZTIyOWZhMDM2ZjE) 
+
+We have a range of channels setup – they're a great place to go to look for both help and inspiration, also feel free to contribute. They're completely optional to join, but we recommend it. There's several Slack channels in the group, here's a few we think might be of use to you:
 
 * **#help** If you have any questions about your coding challenge or the program we're there to help.
 * **#resources** Tutorials, design assets or other useful material.  
@@ -73,5 +82,5 @@ After completing this challenge we hope that you will understand more what progr
 
 If you managed to do everything superquickly and feel like you want to add on more, here's some suggestions. TOTALLY optional. 
 
-1. Use a custom font using [Google fonts.] (https://fonts.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=1001467%20%7C%20Material.IO%20%7C%20Global%20%7C%20en%20%7C%20Hybrid%20%7C%20Text%20%7C%20BKWS&utm_term=%7Bkeyword%7D&gclid=EAIaIQobChMItcCyxeaG2AIVwbYYCh3OtgmsEAAYASAAEgJ6O_D_BwE)
+1. Use a custom font using [Google fonts.](https://fonts.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=1001467%20%7C%20Material.IO%20%7C%20Global%20%7C%20en%20%7C%20Hybrid%20%7C%20Text%20%7C%20BKWS&utm_term=%7Bkeyword%7D&gclid=EAIaIQobChMItcCyxeaG2AIVwbYYCh3OtgmsEAAYASAAEgJ6O_D_BwE)
 1. Make the page resonsive and look differently on mobile than desktop. 
