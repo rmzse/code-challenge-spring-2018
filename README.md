@@ -10,7 +10,7 @@ The most important thing is that you have fun doing it – and hopefully learn s
 
 ## Requirements
 
-You solution must contain:
+Your solution must contain:
 * An image (can be a logo or photo)
 * Two input fields (Username and password)
 * A button
