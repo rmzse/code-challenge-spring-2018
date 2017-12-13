@@ -30,7 +30,7 @@ Make sure to have fun during the process! Do something that you find interesting
 
 ### Download the code files
 
-We have given you a little start with a structure. If you download all files from this project to your computer you will find a `code`folder. The code folder contains of two files, a `index.html` file and a `style.css` file. The most simple approach is to download a code editor and open them in, for example Atom. 
+We have given you a little start with a structure. If you download all files from this project to your computer you will find a `code`folder. The code folder contains of two files, a `index.html` file and a `style.css` file. The most simple approach is to download a code editor and open them in, for example [Atom](https://atom.io/). 
 
 In atom you edit the files. After saving them you can click on the `index.html`file and open it in a web browser to see you webpage. The you should be all set – happy coding! 
 
