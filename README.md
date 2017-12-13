@@ -15,7 +15,7 @@ Your solution must contain:
 * Two input fields (Username and password)
 * A button
 
-We expect you to spend around 4 hours on this assignment – that's also what you will be judged on. If you haven't coded before we think you might have to add an hour or two to read some of the suggested reading material.
+We don't expect a masterpiece, we expect you to spend about four hours on this assignment. If you haven't coded before we think you might have to add an hour or two to read some of the suggested reading material.
 
 ### Why a coding challenge?
 We know that all of you are beginners at programming - we will not judge your solution based on the quality of your code or amount of work. We do however want to see that you’ve touched on a bit of programming before and know what you’re getting yourself into.
