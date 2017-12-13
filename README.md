@@ -11,8 +11,8 @@ The most important thing is that you have fun doing it – and hopefully learn s
 ## Requirements
 
 Your solution must contain:
-* An image (can be a logo or photo)
-* Two input fields (Username and password)
+* An image (can be a logo, photo or other image)
+* Two input fields (username and password)
 * A button
 
 We don't expect a masterpiece, we expect you to spend about four hours on this assignment. If you haven't coded before we think you might have to add an hour or two to read some of the suggested reading material.
