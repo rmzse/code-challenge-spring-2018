@@ -6,9 +6,9 @@ Don't be afraid. We don't expect you to know these things in advance, we just wa
 
 ## The brief
 
-This is your chance to make your personal mark on one of the most used web services out there today: Facebook. We want you to make a re-make of the classic login page, meaning how it looks NOT any functionality. You can style it however you like, go bold or be more minimalistic. The most important thing is that you have fun doing it – and hopefully learn something new in the process. 
+This is your chance to make your personal mark on one of the most used web services out there today: Facebook. We want you to make a re-make of the classic login page, meaning how it looks NOT any functionality. You can style it however you like, go bold or be more minimalistic. Go wild and make it yours! 
 
-Just to be clear, we don't expect it to look anything like the Facebook login screen today. Go wild and make it your own, just make sure the requirements are meet. Also, no actual functionality is needed. 
+The most important thing is that you have fun doing it – and hopefully learn something new in the process. 
 
 ## Requirements
 
