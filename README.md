@@ -1,4 +1,4 @@
-# Coding Challenge 2018 for Technigo Boot Camp
+# :star2: Coding Challenge 2018 for Technigo Boot Camp :star2:
 
 We're happy that you're thinking about applying for our boot camp! This is the first step, and the most fun, in the application – The Coding Challenge. 
 
@@ -39,7 +39,7 @@ In atom you edit the files. After saving them you can click on the `index.html`f
 Hand in the assignment by: 
 * Create an account on Github.com
 * Start a new repository or project, make sure it's pubic.
-* Upload your whole code folder (There's an upload files button). 
+* [Upload](https://help.github.com/articles/adding-a-file-to-a-repository/) your whole code folder. 
 * Attach the link to the repositoy in your written application. 
 
 Good luck! 
