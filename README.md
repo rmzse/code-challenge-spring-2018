@@ -4,11 +4,11 @@ We're happy that you're thinking about applying for our boot camp! This is the f
 
 ## The brief
 
-This is your chance to make your personal mark on one of the most used web services out there today: Facebook. We want you to make a re-make of the classic **login page**, meaning only a new look NOT any functionality. You can style it however you like, go bold or be more minimalistic. Go wild and make it yours!
+This is your chance to make your personal mark on one of the most used web services out there today: Facebook. Specfically we will focus on their pretty boring **looking login page**. We want you to make a re-make, meaning only a new look NOT any functionality. You can style it however you like, go bold or be more minimalistic. Go wild and make it yours!
 
 The most important thing is that you have fun doing it – and hopefully learn something new in the process.
 
-
+This is how it looks today - pretty boring we would say. We bet you can make a much better job! Good luck! 
 ![Facebook Login](https://github.com/Technigo/code-challenge-spring-2018/blob/master/Facebook-login.png)
 
 ## Requirements
