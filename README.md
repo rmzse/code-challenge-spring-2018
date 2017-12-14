@@ -8,6 +8,9 @@ This is your chance to make your personal mark on one of the most used web servi
 
 The most important thing is that you have fun doing it – and hopefully learn something new in the process.
 
+
+![Facebook Login](https://github.com/Technigo/code-challenge-spring-2018/blob/master/Facebook-login.png)
+
 ## Requirements
 
 Your solution must contain:
