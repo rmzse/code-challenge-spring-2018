@@ -1,0 +1,51 @@
+body {
+/* Chrome 10+,Safari */
+background : -webkit-linear-gradient(bottom right, rgb(212, 4, 212) 08%, rgb(14, 220, 235) 92%);
+
+/* Firefox 4+ */
+background : -moz-linear-gradient(bottom right, rgb(212, 4, 212) 08%, rgb(14, 220, 235) 92%);
+
+/* Opera */
+background : -o-linear-gradient(bottom right, rgb(212, 4, 212) 08%, rgb(14, 220, 235) 92%);
+
+/* IE 10+ */
+background : -ms-linear-gradient(bottom right, rgb(212, 4, 212) 08%, rgb(14, 220, 235) 92%);
+
+/* W3C */
+background : -linear-gradient(bottom right, rgb(212, 4, 212) 08%, rgb(14, 220, 235) 92%);
+}
+
+.cube {
+  width: 135px;
+  height: 135px;
+  border: 2px solid rgb(51, 102, 255);
+  border-radius: 10px 10px;
+  align-content: stretch;
+  flex-basis: auto; /* default value */
+  flex-grow: 1;
+  overflow: auto;
+  /*background-image: url("/img/transp-cell.gif");*/
+}
+
+.callout {
+  border-radius: 10px 10px;
+  position: inline-block;
+  border: none;
+  background-size: contain;
+}
+
+.intro {
+  background-color: transparent;
+  /*border: 3px solid rgb(51, 102, 255);*/
+}
+
+h1 {
+    color: white;
+    font-family: Verdana;
+    font-weight: 600;
+}
+
+label {
+  font-family: Verdana;
+  font-weight: 600;
+}
